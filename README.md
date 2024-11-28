@@ -1,1 +1,3 @@
-# raytracing1weekend_python
+# Raytracing in 1 Weekend -- Python Edition
+
+
